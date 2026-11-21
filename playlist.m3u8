@@ -446,3 +446,7 @@ http://38.44.109.41:8003/play/a02l/index.m3u8
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
 #EXTINF:-1 ,Tango Sports 4
 http://190.7.19.197:232/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Discover Pakistan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ideationtec.live/
+https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
