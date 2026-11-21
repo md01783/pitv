@@ -1,548 +1,157 @@
-[
-  {
-    "category": "Sports",
-    "id": "0001_tsports",
-    "logo": "/tvlogo/TSports.jpg",
-    "name": "0001_TSPORTS",
-    "url": "http://103.151.60.184:8000/play/bsy8/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "bein_sport_1",
-    "logo": "/tvlogo/bein_sport_1.png",
-    "name": "Bein Sport 1",
-    "url": "http://103.151.60.184:8000/play/bob4/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "bein_sport_2",
-    "logo": "/tvlogo/bein_sport_2.png",
-    "name": "Bein Sport 2",
-    "url": "http://103.151.60.184:8000/play/bui7/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "bein_xtra",
-    "logo": "/tvlogo/bein_xtra.png",
-    "name": "Bein Xtra",
-    "url": "http://103.151.60.184:8000/play/bmm9/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "eurosport",
-    "logo": "/tvlogo/eurosport.png",
-    "name": "Eurosport",
-    "url": "http://103.151.60.184:8000/play/bae0/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "eurosport_hd",
-    "logo": "/tvlogo/eurosport.png",
-    "name": "Eurosport HD",
-    "url": "http://103.151.60.184:8000/play/b4q7/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "ksa_sport_1",
-    "logo": "/tvlogo/ksa_sport_1.png",
-    "name": "KSA Sport 1",
-    "url": "http://103.151.60.184:8000/play/bd1k/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "ptvsportshd",
-    "logo": "/tvlogo/&tv.png",
-    "name": "PTV-SPORTS-HD",
-    "url": "http://103.151.60.184:8000/play/bq5a/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "skynet_sports",
-    "logo": "/tvlogo/TSports.jpg",
-    "name": "SKYNET SPORTS",
-    "url": "http://103.151.60.184:8000/play/b5js/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "sony_sports__ten_1",
-    "logo": "/tvlogo/sports.png",
-    "name": "Sony Sports  Ten 1",
-    "url": "http://103.151.60.184:8000/play/bz8n/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "sony_sports_2",
-    "logo": "/tvlogo/sports.png",
-    "name": "Sony Sports 2",
-    "url": "http://103.151.60.184:8000/play/bbym/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "star_sports_2_dl",
-    "logo": "/tvlogo/sports.png",
-    "name": "Star Sports 2 DL",
-    "url": "http://103.151.60.184:8000/play/bqj2/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "star_sports_select_1_hd",
-    "logo": "/tvlogo/starsports_select_1.jpg",
-    "name": "Star Sports Select 1 HD",
-    "url": "http://103.151.60.184:8000/play/b77z/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "star_sports_select_2_hd",
-    "logo": "/tvlogo/sports.png",
-    "name": "Star Sports Select 2 HD",
-    "url": "http://103.151.60.184:8000/play/bi9k/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "ten_3",
-    "logo": "/tvlogo/sony-ten-3.png",
-    "name": "TEN 3",
-    "url": "http://103.151.60.184:8000/play/b22h/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "ten_5_hd",
-    "logo": "/tvlogo/sony-sports-TEN-5hd.png.jpg",
-    "name": "TEN 5 HD",
-    "url": "http://103.151.60.184:8000/play/b1au/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "ten_cricket",
-    "logo": "/tvlogo/tencricket.png",
-    "name": "Ten Cricket",
-    "url": "http://103.151.60.184:8000/play/bfxw/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Sports",
-    "id": "unite8_sd1",
-    "logo": "/tvlogo/unite8_sd1.png",
-    "name": "Unite8 SD1",
-    "url": "http://103.151.60.184:8000/play/b2xt/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kolkata",
-    "id": "bangla_cinema",
-    "logo": "/tvlogo/zeebanglacinema.png",
-    "name": "BANGLA CINEMA",
-    "url": "http://103.151.60.184:8000/play/b0wm/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kolkata",
-    "id": "colors_bangla_hd",
-    "logo": "/tvlogo/colors-bangla.png",
-    "name": "Colors Bangla HD",
-    "url": "http://103.151.60.184:8000/play/bliq/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kolkata",
-    "id": "enterr10_bangla",
-    "logo": "/tvlogo/enterr10bangla.png",
-    "name": "Enterr10 Bangla",
-    "url": "http://103.151.60.184:8000/play/boe4/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kolkata",
-    "id": "ruposhi_bangla",
-    "logo": "/tvlogo/ruposhi_bangla.png",
-    "name": "Ruposhi Bangla",
-    "url": "http://103.151.60.184:8000/play/bebi/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kolkata",
-    "id": "star_bangla",
-    "logo": "/tvlogo/star bangla.png",
-    "name": "Star Bangla",
-    "url": "http://103.151.60.184:8000/play/b3j8/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kolkata",
-    "id": "sun_bangla_hd",
-    "logo": "/tvlogo/Sun_Bangla.png",
-    "name": "Sun Bangla HD",
-    "url": "http://103.151.60.184:8000/play/bvv5/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kolkata",
-    "id": "zee_bangla_e",
-    "logo": "/tvlogo/zeebangla.png",
-    "name": "Zee Bangla E",
-    "url": "http://103.151.60.184:8000/play/b7a8/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kolkata",
-    "id": "zee_bangla_hd",
-    "logo": "/tvlogo/zee-bangla-hd-logo-300x300-1.jpg",
-    "name": "Zee Bangla HD",
-    "url": "http://103.151.60.184:8000/play/bcaa/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "News",
-    "id": "al_jazeera",
-    "logo": "/tvlogo/aljazeera.png",
-    "name": "Al Jazeera",
-    "url": "http://103.151.60.184:8000/play/bz7z/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "News",
-    "id": "bbc_world",
-    "logo": "/tvlogo/BBC World1664975476.png",
-    "name": "BBC World",
-    "url": "http://103.151.60.184:8000/play/bw05/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "News",
-    "id": "cnn",
-    "logo": "/tvlogo/cnn.jpg",
-    "name": "CNN",
-    "url": "http://103.151.60.184:8000/play/bzmd/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "News",
-    "id": "enc_2406",
-    "logo": "/tvlogo/enc_2406.png",
-    "name": "ENC 2406",
-    "url": "http://103.151.60.184:8000/play/bi64/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "News",
-    "id": "hum_sitary",
-    "logo": "/tvlogo/Ary.png",
-    "name": "Hum Sitary",
-    "url": "http://103.151.60.184:8000/play/bo00/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "News",
-    "id": "udp_2282221071_2203",
-    "logo": "/tvlogo/71.png",
-    "name": "UDP 228.2.2.2:1071 #2203",
-    "url": "http://103.151.60.184:8000/play/bx4b/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "News",
-    "id": "udp_2282221101_2248",
-    "logo": "/tvlogo/udp_2282221101_2248.png",
-    "name": "UDP 228.2.2.2:1101 #2248",
-    "url": "http://103.151.60.184:8000/play/bqpd/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "News",
-    "id": "wwe_247",
-    "logo": "/tvlogo/wwe_247.png",
-    "name": "WWE 24*7",
-    "url": "http://103.151.60.184:8000/play/bifa/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "nat_geo_wild_hd",
-    "logo": "/tvlogo/wild.jpg",
-    "name": "Nat Geo Wild HD",
-    "url": "http://103.151.60.184:8000/play/bmoe/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "sony_aath",
-    "logo": "/tvlogo/sony_aath.jpg",
-    "name": "Sony Aath",
-    "url": "http://103.151.60.184:8000/play/bwki/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "sony_set_hd",
-    "logo": "/tvlogo/sony.png",
-    "name": "Sony SET HD",
-    "url": "http://103.151.60.184:8000/play/b18x/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "srk_tv",
-    "logo": "/tvlogo/&tv.png",
-    "name": "SRK TV",
-    "url": "http://103.151.60.184:8000/play/bs0g/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "star_jalsha",
-    "logo": "/tvlogo/Star Jalsha1664976894.png",
-    "name": "Star Jalsha",
-    "url": "http://103.151.60.184:8000/play/brfa/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "star_spor_3",
-    "logo": "/tvlogo/star_spor_3.png",
-    "name": "STar Spor 3",
-    "url": "http://103.151.60.184:8000/play/brb2/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "thepapare_1",
-    "logo": "/tvlogo/thepapare_1.png",
-    "name": "ThePapare 1",
-    "url": "http://103.151.60.184:8000/play/buvm/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "thepapare_2",
-    "logo": "/tvlogo/thepapare_2.png",
-    "name": "ThePapare 2",
-    "url": "http://103.151.60.184:8000/play/bksz/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "travelxp_hd",
-    "logo": "/tvlogo/travelxphd.png",
-    "name": "Travelxp HD",
-    "url": "http://103.151.60.184:8000/play/b96j/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282221053_1907",
-    "logo": "/tvlogo/udp_2282221053_1907.png",
-    "name": "UDP 228.2.2.2:1053 #1907",
-    "url": "http://103.151.60.184:8000/play/b38z/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282221062_2111",
-    "logo": "/tvlogo/udp_2282221062_2111.png",
-    "name": "UDP 228.2.2.2:1062 #2111",
-    "url": "http://103.151.60.184:8000/play/bvfo/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282221064_2811",
-    "logo": "/tvlogo/udp_2282221064_2811.png",
-    "name": "UDP 228.2.2.2:1064 #2811",
-    "url": "http://103.151.60.184:8000/play/bo7a/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282221073_2221",
-    "logo": "/tvlogo/udp_2282221073_2221.png",
-    "name": "UDP 228.2.2.2:1073 #2221",
-    "url": "http://103.151.60.184:8000/play/bdvo/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282221077_3219",
-    "logo": "/tvlogo/udp_2282221077_3219.png",
-    "name": "UDP 228.2.2.2:1077 #3219",
-    "url": "http://103.151.60.184:8000/play/bpfk/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282221078_2230",
-    "logo": "/tvlogo/udp_2282221078_2230.png",
-    "name": "UDP 228.2.2.2:1078 #2230",
-    "url": "http://103.151.60.184:8000/play/bxaa/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282221087_2813",
-    "logo": "/tvlogo/udp_2282221087_2813.png",
-    "name": "UDP 228.2.2.2:1087 #2813",
-    "url": "http://103.151.60.184:8000/play/bzjz/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282221088_2812",
-    "logo": "/tvlogo/udp_2282221088_2812.png",
-    "name": "UDP 228.2.2.2:1088 #2812",
-    "url": "http://103.151.60.184:8000/play/bvjv/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282221094_2817",
-    "logo": "/tvlogo/udp_2282221094_2817.png",
-    "name": "UDP 228.2.2.2:1094 #2817",
-    "url": "http://103.151.60.184:8000/play/b837/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282221103_2113",
-    "logo": "/tvlogo/udp_2282221103_2113.png",
-    "name": "UDP 228.2.2.2:1103 #2113",
-    "url": "http://103.151.60.184:8000/play/b1pj/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "udp_2282229999_2235",
-    "logo": "/tvlogo/udp_2282229999_2235.png",
-    "name": "UDP 228.2.2.2:9999 #2235",
-    "url": "http://103.151.60.184:8000/play/b64g/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Entertainment",
-    "id": "zee_tv",
-    "logo": "/tvlogo/zee tv.png",
-    "name": "Zee TV",
-    "url": "http://103.151.60.184:8000/play/b84n/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kids & Cartoons",
-    "id": "cartoon_network",
-    "logo": "/tvlogo/cartoon.png",
-    "name": "Cartoon Network",
-    "url": "http://103.151.60.184:8000/play/bcp0/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kids & Cartoons",
-    "id": "disney_international",
-    "logo": "/tvlogo/disney_international.png",
-    "name": "Disney International",
-    "url": "http://103.151.60.184:8000/play/bpbb/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kids & Cartoons",
-    "id": "disney_jr",
-    "logo": "/tvlogo/disneyjr.png",
-    "name": "Disney Jr",
-    "url": "http://103.151.60.184:8000/play/bwnh/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kids & Cartoons",
-    "id": "nick",
-    "logo": "/tvlogo/nick.png",
-    "name": "Nick",
-    "url": "http://103.151.60.184:8000/play/bxyc/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kids & Cartoons",
-    "id": "nickelodeon",
-    "logo": "/tvlogo/nick.png",
-    "name": "Nickelodeon",
-    "url": "http://103.151.60.184:8000/play/buon/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Kids & Cartoons",
-    "id": "pogo",
-    "logo": "/tvlogo/pogo.jpg",
-    "name": "Pogo",
-    "url": "http://103.151.60.184:8000/play/bse9/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Movies",
-    "id": "hbo_hd",
-    "logo": "/tvlogo/hbo.png",
-    "name": "HBO HD",
-    "url": "http://103.151.60.184:8000/play/b37l/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Movies",
-    "id": "jalsha_movies_hd",
-    "logo": "/tvlogo/jalshamovieshd.jpg",
-    "name": "Jalsha Movies HD",
-    "url": "http://103.151.60.184:8000/play/bzwf/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Movies",
-    "id": "movies_now_hd",
-    "logo": "/tvlogo/moviesnow.png",
-    "name": "Movies Now HD",
-    "url": "http://103.151.60.184:8000/play/b3yb/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Movies",
-    "id": "star_gold_2_hd",
-    "logo": "/tvlogo/Star_Gold_2_HD.png",
-    "name": "Star Gold 2 HD",
-    "url": "http://103.151.60.184:8000/play/bfc4/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Movies",
-    "id": "star_gold_hd__rs_1900",
-    "logo": "/tvlogo/stargoldhd.png",
-    "name": "STAR GOLD HD - Rs 19.00",
-    "url": "http://103.151.60.184:8000/play/btmz/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Movies",
-    "id": "zee_cinema_hd",
-    "logo": "/tvlogo/zeecinemahd.jpg",
-    "name": "Zee Cinema HD",
-    "url": "http://103.151.60.184:8000/play/bwx6/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Education",
-    "id": "animal_planet",
-    "logo": "/tvlogo/animal.png",
-    "name": "Animal Planet",
-    "url": "http://103.151.60.184:8000/play/bjc1/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Education",
-    "id": "discovery_hd",
-    "logo": "/tvlogo/discoveryhd.png",
-    "name": "Discovery HD",
-    "url": "http://103.151.60.184:8000/play/bw3c/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Education",
-    "id": "discovery_science",
-    "logo": "/tvlogo/discoveryscience.png",
-    "name": "Discovery Science",
-    "url": "http://103.151.60.184:8000/play/b7yb/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Hindi",
-    "id": "colors_hd",
-    "logo": "/tvlogo/colors.png",
-    "name": "Colors HD",
-    "url": "http://103.151.60.184:8000/play/b801/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Hindi",
-    "id": "colors_infinity_hd",
-    "logo": "/tvlogo/colors.png",
-    "name": "Colors Infinity HD",
-    "url": "http://103.151.60.184:8000/play/bnjd/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Hindi",
-    "id": "history_18",
-    "logo": "/tvlogo/history 18.png",
-    "name": "History 18",
-    "url": "http://103.151.60.184:8000/play/bj4m/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Hindi",
-    "id": "hits",
-    "logo": "/tvlogo/hitsmovie.png",
-    "name": "Hits",
-    "url": "http://103.151.60.184:8000/play/b5wa/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Hindi",
-    "id": "hits_movies",
-    "logo": "/tvlogo/hitsmovie.png",
-    "name": "HITS MOVIES",
-    "url": "http://103.151.60.184:8000/play/b9v0/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Hindi",
-    "id": "star_plus",
-    "logo": "/tvlogo/starplus.png",
-    "name": "Star Plus",
-    "url": "http://103.151.60.184:8000/play/beu7/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Hindi",
-    "id": "star_plus_hd",
-    "logo": "/tvlogo/starplus.png",
-    "name": "STAR Plus HD",
-    "url": "http://103.151.60.184:8000/play/bdwg/index.m3u8?token=-dHbaV4P9kHxa72c"
-  },
-  {
-    "category": "Hindi",
-    "id": "super_hit",
-    "logo": "/tvlogo/super_hit.png",
-    "name": "SUPER HIT",
-    "url": "http://103.151.60.184:8000/play/bt92/index.m3u8?token=-dHbaV4P9kHxa72c"
-  }
-]
+#EXTM3U
+#EXTINF:-1 tvg-id="0001_tsports" tvg-logo="/tvlogo/TSports.jpg" group-title="Sports",0001_TSPORTS
+http://103.151.60.184:8000/play/bsy8/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="bein_sport_1" tvg-logo="/tvlogo/bein_sport_1.png" group-title="Sports",Bein Sport 1
+http://103.151.60.184:8000/play/bob4/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="bein_sport_2" tvg-logo="/tvlogo/bein_sport_2.png" group-title="Sports",Bein Sport 2
+http://103.151.60.184:8000/play/bui7/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="bein_xtra" tvg-logo="/tvlogo/bein_xtra.png" group-title="Sports",Bein Xtra
+http://103.151.60.184:8000/play/bmm9/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="eurosport" tvg-logo="/tvlogo/eurosport.png" group-title="Sports",Eurosport
+http://103.151.60.184:8000/play/bae0/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="eurosport_hd" tvg-logo="/tvlogo/eurosport.png" group-title="Sports",Eurosport HD
+http://103.151.60.184:8000/play/b4q7/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="ksa_sport_1" tvg-logo="/tvlogo/ksa_sport_1.png" group-title="Sports",KSA Sport 1
+http://103.151.60.184:8000/play/bd1k/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="ptvsportshd" tvg-logo="/tvlogo/&tv.png" group-title="Sports",PTV-SPORTS-HD
+http://103.151.60.184:8000/play/bq5a/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="skynet_sports" tvg-logo="/tvlogo/TSports.jpg" group-title="Sports",SKYNET SPORTS
+http://103.151.60.184:8000/play/b5js/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="sony_sports__ten_1" tvg-logo="/tvlogo/sports.png" group-title="Sports",Sony Sports  Ten 1
+http://103.151.60.184:8000/play/bz8n/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="sony_sports_2" tvg-logo="/tvlogo/sports.png" group-title="Sports",Sony Sports 2
+http://103.151.60.184:8000/play/bbym/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="star_sports_2_dl" tvg-logo="/tvlogo/sports.png" group-title="Sports",Star Sports 2 DL
+http://103.151.60.184:8000/play/bqj2/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="star_sports_select_1_hd" tvg-logo="/tvlogo/starsports_select_1.jpg" group-title="Sports",Star Sports Select 1 HD
+http://103.151.60.184:8000/play/b77z/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="star_sports_select_2_hd" tvg-logo="/tvlogo/sports.png" group-title="Sports",Star Sports Select 2 HD
+http://103.151.60.184:8000/play/bi9k/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="ten_3" tvg-logo="/tvlogo/sony-ten-3.png" group-title="Sports",TEN 3
+http://103.151.60.184:8000/play/b22h/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="ten_5_hd" tvg-logo="/tvlogo/sony-sports-TEN-5hd.png.jpg" group-title="Sports",TEN 5 HD
+http://103.151.60.184:8000/play/b1au/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="ten_cricket" tvg-logo="/tvlogo/tencricket.png" group-title="Sports",Ten Cricket
+http://103.151.60.184:8000/play/bfxw/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="unite8_sd1" tvg-logo="/tvlogo/unite8_sd1.png" group-title="Sports",Unite8 SD1
+http://103.151.60.184:8000/play/b2xt/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="bangla_cinema" tvg-logo="/tvlogo/zeebanglacinema.png" group-title="Kolkata",BANGLA CINEMA
+http://103.151.60.184:8000/play/b0wm/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="colors_bangla_hd" tvg-logo="/tvlogo/colors-bangla.png" group-title="Kolkata",Colors Bangla HD
+http://103.151.60.184:8000/play/bliq/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="enterr10_bangla" tvg-logo="/tvlogo/enterr10bangla.png" group-title="Kolkata",Enterr10 Bangla
+http://103.151.60.184:8000/play/boe4/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="ruposhi_bangla" tvg-logo="/tvlogo/ruposhi_bangla.png" group-title="Kolkata",Ruposhi Bangla
+http://103.151.60.184:8000/play/bebi/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="star_bangla" tvg-logo="/tvlogo/star bangla.png" group-title="Kolkata",Star Bangla
+http://103.151.60.184:8000/play/b3j8/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="sun_bangla_hd" tvg-logo="/tvlogo/Sun_Bangla.png" group-title="Kolkata",Sun Bangla HD
+http://103.151.60.184:8000/play/bvv5/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="zee_bangla_e" tvg-logo="/tvlogo/zeebangla.png" group-title="Kolkata",Zee Bangla E
+http://103.151.60.184:8000/play/b7a8/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="zee_bangla_hd" tvg-logo="/tvlogo/zee-bangla-hd-logo-300x300-1.jpg" group-title="Kolkata",Zee Bangla HD
+http://103.151.60.184:8000/play/bcaa/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="al_jazeera" tvg-logo="/tvlogo/aljazeera.png" group-title="News",Al Jazeera
+http://103.151.60.184:8000/play/bz7z/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="bbc_world" tvg-logo="/tvlogo/BBC World1664975476.png" group-title="News",BBC World
+http://103.151.60.184:8000/play/bw05/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="cnn" tvg-logo="/tvlogo/cnn.jpg" group-title="News",CNN
+http://103.151.60.184:8000/play/bzmd/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="enc_2406" tvg-logo="/tvlogo/enc_2406.png" group-title="News",ENC 2406
+http://103.151.60.184:8000/play/bi64/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="hum_sitary" tvg-logo="/tvlogo/Ary.png" group-title="News",Hum Sitary
+http://103.151.60.184:8000/play/bo00/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221071_2203" tvg-logo="/tvlogo/71.png" group-title="News",UDP 228.2.2.2:1071 #2203
+http://103.151.60.184:8000/play/bx4b/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221101_2248" tvg-logo="/tvlogo/udp_2282221101_2248.png" group-title="News",UDP 228.2.2.2:1101 #2248
+http://103.151.60.184:8000/play/bqpd/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="wwe_247" tvg-logo="/tvlogo/wwe_247.png" group-title="News",WWE 24*7
+http://103.151.60.184:8000/play/bifa/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="nat_geo_wild_hd" tvg-logo="/tvlogo/wild.jpg" group-title="Entertainment",Nat Geo Wild HD
+http://103.151.60.184:8000/play/bmoe/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="sony_aath" tvg-logo="/tvlogo/sony_aath.jpg" group-title="Entertainment",Sony Aath
+http://103.151.60.184:8000/play/bwki/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="sony_set_hd" tvg-logo="/tvlogo/sony.png" group-title="Entertainment",Sony SET HD
+http://103.151.60.184:8000/play/b18x/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="srk_tv" tvg-logo="/tvlogo/&tv.png" group-title="Entertainment",SRK TV
+http://103.151.60.184:8000/play/bs0g/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="star_jalsha" tvg-logo="/tvlogo/Star Jalsha1664976894.png" group-title="Entertainment",Star Jalsha
+http://103.151.60.184:8000/play/brfa/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="star_spor_3" tvg-logo="/tvlogo/star_spor_3.png" group-title="Entertainment",STar Spor 3
+http://103.151.60.184:8000/play/brb2/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="thepapare_1" tvg-logo="/tvlogo/thepapare_1.png" group-title="Entertainment",ThePapare 1
+http://103.151.60.184:8000/play/buvm/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="thepapare_2" tvg-logo="/tvlogo/thepapare_2.png" group-title="Entertainment",ThePapare 2
+http://103.151.60.184:8000/play/bksz/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="travelxp_hd" tvg-logo="/tvlogo/travelxphd.png" group-title="Entertainment",Travelxp HD
+http://103.151.60.184:8000/play/b96j/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221053_1907" tvg-logo="/tvlogo/udp_2282221053_1907.png" group-title="Entertainment",UDP 228.2.2.2:1053 #1907
+http://103.151.60.184:8000/play/b38z/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221062_2111" tvg-logo="/tvlogo/udp_2282221062_2111.png" group-title="Entertainment",UDP 228.2.2.2:1062 #2111
+http://103.151.60.184:8000/play/bvfo/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221064_2811" tvg-logo="/tvlogo/udp_2282221064_2811.png" group-title="Entertainment",UDP 228.2.2.2:1064 #2811
+http://103.151.60.184:8000/play/bo7a/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221073_2221" tvg-logo="/tvlogo/udp_2282221073_2221.png" group-title="Entertainment",UDP 228.2.2.2:1073 #2221
+http://103.151.60.184:8000/play/bdvo/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221077_3219" tvg-logo="/tvlogo/udp_2282221077_3219.png" group-title="Entertainment",UDP 228.2.2.2:1077 #3219
+http://103.151.60.184:8000/play/bpfk/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221078_2230" tvg-logo="/tvlogo/udp_2282221078_2230.png" group-title="Entertainment",UDP 228.2.2.2:1078 #2230
+http://103.151.60.184:8000/play/bxaa/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221087_2813" tvg-logo="/tvlogo/udp_2282221087_2813.png" group-title="Entertainment",UDP 228.2.2.2:1087 #2813
+http://103.151.60.184:8000/play/bzjz/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221088_2812" tvg-logo="/tvlogo/udp_2282221088_2812.png" group-title="Entertainment",UDP 228.2.2.2:1088 #2812
+http://103.151.60.184:8000/play/bvjv/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221094_2817" tvg-logo="/tvlogo/udp_2282221094_2817.png" group-title="Entertainment",UDP 228.2.2.2:1094 #2817
+http://103.151.60.184:8000/play/b837/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282221103_2113" tvg-logo="/tvlogo/udp_2282221103_2113.png" group-title="Entertainment",UDP 228.2.2.2:1103 #2113
+http://103.151.60.184:8000/play/b1pj/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="udp_2282229999_2235" tvg-logo="/tvlogo/udp_2282229999_2235.png" group-title="Entertainment",UDP 228.2.2.2:9999 #2235
+http://103.151.60.184:8000/play/b64g/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="zee_tv" tvg-logo="/tvlogo/zee tv.png" group-title="Entertainment",Zee TV
+http://103.151.60.184:8000/play/b84n/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="cartoon_network" tvg-logo="/tvlogo/cartoon.png" group-title="Kids & Cartoons",Cartoon Network
+http://103.151.60.184:8000/play/bcp0/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="disney_international" tvg-logo="/tvlogo/disney_international.png" group-title="Kids & Cartoons",Disney International
+http://103.151.60.184:8000/play/bpbb/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="disney_jr" tvg-logo="/tvlogo/disneyjr.png" group-title="Kids & Cartoons",Disney Jr
+http://103.151.60.184:8000/play/bwnh/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="nick" tvg-logo="/tvlogo/nick.png" group-title="Kids & Cartoons",Nick
+http://103.151.60.184:8000/play/bxyc/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="/tvlogo/nick.png" group-title="Kids & Cartoons",Nickelodeon
+http://103.151.60.184:8000/play/buon/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="pogo" tvg-logo="/tvlogo/pogo.jpg" group-title="Kids & Cartoons",Pogo
+http://103.151.60.184:8000/play/bse9/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="hbo_hd" tvg-logo="/tvlogo/hbo.png" group-title="Movies",HBO HD
+http://103.151.60.184:8000/play/b37l/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="jalsha_movies_hd" tvg-logo="/tvlogo/jalshamovieshd.jpg" group-title="Movies",Jalsha Movies HD
+http://103.151.60.184:8000/play/bzwf/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="movies_now_hd" tvg-logo="/tvlogo/moviesnow.png" group-title="Movies",Movies Now HD
+http://103.151.60.184:8000/play/b3yb/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="star_gold_2_hd" tvg-logo="/tvlogo/Star_Gold_2_HD.png" group-title="Movies",Star Gold 2 HD
+http://103.151.60.184:8000/play/bfc4/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="star_gold_hd__rs_1900" tvg-logo="/tvlogo/stargoldhd.png" group-title="Movies",STAR GOLD HD - Rs 19.00
+http://103.151.60.184:8000/play/btmz/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="zee_cinema_hd" tvg-logo="/tvlogo/zeecinemahd.jpg" group-title="Movies",Zee Cinema HD
+http://103.151.60.184:8000/play/bwx6/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="animal_planet" tvg-logo="/tvlogo/animal.png" group-title="Education",Animal Planet
+http://103.151.60.184:8000/play/bjc1/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="discovery_hd" tvg-logo="/tvlogo/discoveryhd.png" group-title="Education",Discovery HD
+http://103.151.60.184:8000/play/bw3c/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="discovery_science" tvg-logo="/tvlogo/discoveryscience.png" group-title="Education",Discovery Science
+http://103.151.60.184:8000/play/b7yb/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="colors_hd" tvg-logo="/tvlogo/colors.png" group-title="Hindi",Colors HD
+http://103.151.60.184:8000/play/b801/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="colors_infinity_hd" tvg-logo="/tvlogo/colors.png" group-title="Hindi",Colors Infinity HD
+http://103.151.60.184:8000/play/bnjd/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="history_18" tvg-logo="/tvlogo/history 18.png" group-title="Hindi",History 18
+http://103.151.60.184:8000/play/bj4m/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="hits" tvg-logo="/tvlogo/hitsmovie.png" group-title="Hindi",Hits
+http://103.151.60.184:8000/play/b5wa/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="hits_movies" tvg-logo="/tvlogo/hitsmovie.png" group-title="Hindi",HITS MOVIES
+http://103.151.60.184:8000/play/b9v0/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="star_plus" tvg-logo="/tvlogo/starplus.png" group-title="Hindi",Star Plus
+http://103.151.60.184:8000/play/beu7/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="star_plus_hd" tvg-logo="/tvlogo/starplus.png" group-title="Hindi",STAR Plus HD
+http://103.151.60.184:8000/play/bdwg/index.m3u8?token=-dHbaV4P9kHxa72c
+#EXTINF:-1 tvg-id="super_hit" tvg-logo="/tvlogo/super_hit.png" group-title="Hindi",SUPER HIT
+http://103.151.60.184:8000/play/bt92/index.m3u8?token=-dHbaV4P9kHxa72c
